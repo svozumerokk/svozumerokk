@@ -7,4 +7,4 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 # STREAK🔥
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=svozumerokk)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=svozumerokk)](https://git.io/streak-stats)
