@@ -5,3 +5,5 @@
 # USER OF
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+# GITHUB TROPHY🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=svozumerokk)](https://github.com/ryo-ma/github-profile-trophy)
